@@ -14,4 +14,4 @@ var t=arguments[3],e="Expected a function",n=NaN,r="[object Symbol]",i=/^\s+|\s+
 },{"notiflix/build/notiflix-notify-aio":"MeeU","./fetchRestCountries":"Tyg6","lodash.debounce":"PZFh"}],"Focm":[function(require,module,exports) {
 "use strict";require("./css/styles.css"),require("./js/main");
 },{"./css/styles.css":"krre","./js/main":"d6sW"}]},{},["Focm"], null)
-//# sourceMappingURL=/parcel-project-template/src.ef26b45d.js.map
+//# sourceMappingURL=/parcel-project-template/src.8320d97d.js.map
